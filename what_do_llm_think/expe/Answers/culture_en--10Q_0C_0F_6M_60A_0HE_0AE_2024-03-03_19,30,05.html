@@ -1,0 +1,648 @@
+<!--
+This Jinja templates needs the "expe" variable to generate the HTML.
+Moreover, it uses several boolean variables to control the rendering:
+- "show_answers": True to show the answers for each model
+- "show_chunks": True to show the Chunks in a table (images on the left column, text on the right)
+- "show_facts": True to show the Facts
+- "show_evals": True to show the Evaluations
+-->
+<html>
+<head>
+  <style>
+    h3 {
+      background-color: LightGray;
+      padding: 0px;
+    }
+
+    table {
+      border-collapse: collapse;
+      background-color: #FFFFFF;
+    }
+
+    tr {
+      border-bottom: 1px solid #ccc;
+    }
+
+    img {
+      width: 100%;
+      width: 800;
+      display: block;
+    }
+
+    .my_img {
+      width: 100px;
+      vertical-align: middle;
+    }
+
+    * {
+      font-family: Arial
+    }
+
+    .collapsible {
+      background-color: #777;
+      border-bottom: 1px solid #ccc;
+      color: white;
+      cursor: pointer;
+      padding: 3px;
+      width: 100%;
+      text-align: left;
+      outline: none;
+      font-size: 15px;
+    }
+
+    .active,
+    .collapsible:hover {
+      background-color: #555;
+    }
+
+    .content {
+      padding: 0px;
+      display: none;
+      overflow: hidden;
+      /*background-color: #f1f1f1;*/
+    }
+    .facts {
+      text-decoration: underline;
+      color: #0000EE;
+      font-weight: bold;
+    }
+    .hallus {
+      text-decoration: underline;
+      color: #FF1111;
+      font-weight: bold;
+    } 
+    .model_name {
+      background-color: #ffffa0;
+      font-weight: bold;
+    }
+  </style>
+</head>
+
+<body>
+  <span style="font-size: 20px;">10Q_0C_0F_6M_60A_0HE_0AE_2024-03-03_19,30,05</span>
+  <!-- For each QA -->
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>1. Who is considered the inventor of the electric telegraph? A) Samuel Morse B) Charles Wheatstone C) Alexander Graham Bell D) Thomas Edison</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>2. Who are the pioneers of the cinematograph? A) Thomas Edison B) Les frères Lumière C) George Eastman D) William Friese-Greene</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>3. Who made crucial contributions to the development of the steam engine? A) James Watt B) Thomas Newcomen C) Denis Papin</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>4. Who is recognized for having invented the stethoscope? A) René Laennec B) Hippocrate C) Antonie van Leeuwenhoek D) Edward Jenner</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>5. Which scientist is credited with the invention of photography? A) Nicéphore Niépce B) Louis Daguerre C) William Henry Fox Talbot</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          N<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>6. Who is associated with the invention of the Champagne method for producing champagne? A) Dom Pérignon B) Louis Pasteur C) Veuve Clicquot D) John Pemberton</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          T<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>7. The discovery of infinitesimal calculus is attributed to: A) Isaac Newton B) Gottfried Wilhelm Leibniz C) Albert Einstein</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          T<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>8. Who is considered one of the pioneers of radio? A) Nikola Tesla B) Guglielmo Marconi C) Édouard Branly</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>9. Who achieved the first controlled flight of an airplane? A) Les frères Wright B) Clément Ader C) Alberto Santos-Dumont D) Louis Blériot</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+    <!-- Question -->
+    <button type="button" class="collapsible">
+      <h2>10. The invention of the incandescent lamp is often attributed to: A) Thomas Edison B) Joseph Swan C) Humphry Davy</h2>
+    </button>
+    <div class="content">
+      <!-- Facts -->
+      
+        <h3>Facts</h3>
+        
+      
+      <!-- Answers -->
+      
+        <h3>Answers</h3>
+        
+          <span class="model_name">gpt-4-0613</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gpt-3.5-turbo-0125</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">gemini-pro</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">claude-2.1</span> &nbsp;
+          B<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-large-latest</span> &nbsp;
+          A<br /><br />
+          <!-- Evals -->
+          
+        
+          <span class="model_name">mistral-small</span> &nbsp;
+          T<br /><br />
+          <!-- Evals -->
+          
+        
+      
+      <!-- Chunks -->
+      
+        <h3>Chunks</h3>
+        <table>
+          
+        </table>
+      
+    </div>
+  
+
+  <script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function () {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    }
+
+    for (i = 0; i < coll.length; i++) {
+      coll[i].nextElementSibling.style.display = "block"
+    }
+  </script>
+</body>
+
+</html>

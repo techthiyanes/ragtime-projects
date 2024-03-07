@@ -1,0 +1,1715 @@
+{
+  "meta": {},
+  "items": [
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "Who is considered the inventor of the electric telegraph? A) Samuel Morse B) Charles Wheatstone C) Alexander Graham Bell D) Thomas Edison"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Samuel Morse",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered the inventor of the electric telegraph? A) Samuel Morse B) Charles Wheatstone C) Alexander Graham Bell D) Thomas Edison.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:21:17.200282",
+              "duration": 6.233243,
+              "cost": 0.00192
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Samuel Morse",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered the inventor of the electric telegraph? A) Samuel Morse B) Charles Wheatstone C) Alexander Graham Bell D) Thomas Edison.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:21:21.618057",
+              "duration": 4.407154,
+              "cost": 0.000034
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered the inventor of the electric telegraph? A) Samuel Morse B) Charles Wheatstone C) Alexander Graham Bell D) Thomas Edison.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:21:35.701530",
+              "duration": 14.069871,
+              "cost": 0.00001175
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " A",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered the inventor of the electric telegraph? A) Samuel Morse B) Charles Wheatstone C) Alexander Graham Bell D) Thomas Edison.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:21:36.998781",
+              "duration": 1.270169,
+              "cost": 0.000432
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Samuel Morse",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered the inventor of the electric telegraph? A) Samuel Morse B) Charles Wheatstone C) Alexander Graham Bell D) Thomas Edison.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:21:37.551814",
+              "duration": 0.546369,
+              "cost": 0.000592
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Samuel Morse is considered the inventor of the electric telegraph.",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered the inventor of the electric telegraph? A) Samuel Morse B) Charles Wheatstone C) Alexander Graham Bell D) Thomas Edison.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:21:38.471187",
+              "duration": 0.907345,
+              "cost": 0.00007376
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "Who are the pioneers of the cinematograph? A) Thomas Edison B) Les frères Lumière C) George Eastman D) William Friese-Greene"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B) Les frères Lumière",
+              "prompt": {
+                "meta": {},
+                "user": "Who are the pioneers of the cinematograph? A) Thomas Edison B) Les frères Lumière C) George Eastman D) William Friese-Greene.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:21:41.058925",
+              "duration": 2.571065,
+              "cost": 0.0022199999999999998
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B",
+              "prompt": {
+                "meta": {},
+                "user": "Who are the pioneers of the cinematograph? A) Thomas Edison B) Les frères Lumière C) George Eastman D) William Friese-Greene.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:21:41.737079",
+              "duration": 0.659904,
+              "cost": 0.0000315
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B",
+              "prompt": {
+                "meta": {},
+                "user": "Who are the pioneers of the cinematograph? A) Thomas Edison B) Les frères Lumière C) George Eastman D) William Friese-Greene.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:21:44.614438",
+              "duration": 2.871743,
+              "cost": 0.000012
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " B",
+              "prompt": {
+                "meta": {},
+                "user": "Who are the pioneers of the cinematograph? A) Thomas Edison B) Les frères Lumière C) George Eastman D) William Friese-Greene.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:21:46.002608",
+              "duration": 1.3726,
+              "cost": 0.00046399999999999995
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B) Les frères Lumière",
+              "prompt": {
+                "meta": {},
+                "user": "Who are the pioneers of the cinematograph? A) Thomas Edison B) Les frères Lumière C) George Eastman D) William Friese-Greene.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:21:46.985803",
+              "duration": 0.939441,
+              "cost": 0.000704
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B) Les frères Lumière \n\nLes frères Auguste et Louis Lumière sont considérés comme des pionniers du cinématographe. Ils ont breveté leur invention, le Cinématographe, en 1895, qui servait à la fois de caméra, de projecteur et de développeur de film. Ils ont également réalisé et projeté l'un des premiers films, La Sortie de l'Usine Lumière à Lyon, la même année.",
+              "prompt": {
+                "meta": {},
+                "user": "Who are the pioneers of the cinematograph? A) Thomas Edison B) Les frères Lumière C) George Eastman D) William Friese-Greene.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:21:48.951603",
+              "duration": 1.954266,
+              "cost": 0.00027603
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "Who made crucial contributions to the development of the steam engine? A) James Watt B) Thomas Newcomen C) Denis Papin"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) James Watt",
+              "prompt": {
+                "meta": {},
+                "user": "Who made crucial contributions to the development of the steam engine? A) James Watt B) Thomas Newcomen C) Denis Papin.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:21:55.934075",
+              "duration": 6.962338,
+              "cost": 0.00186
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) James Watt",
+              "prompt": {
+                "meta": {},
+                "user": "Who made crucial contributions to the development of the steam engine? A) James Watt B) Thomas Newcomen C) Denis Papin.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:21:59.546465",
+              "duration": 3.595094,
+              "cost": 0.000033
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A",
+              "prompt": {
+                "meta": {},
+                "user": "Who made crucial contributions to the development of the steam engine? A) James Watt B) Thomas Newcomen C) Denis Papin.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:22:03.753886",
+              "duration": 4.189345,
+              "cost": 0.000011249999999999999
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " A",
+              "prompt": {
+                "meta": {},
+                "user": "Who made crucial contributions to the development of the steam engine? A) James Watt B) Thomas Newcomen C) Denis Papin.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:22:05.248345",
+              "duration": 1.465312,
+              "cost": 0.000416
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) James Watt made crucial contributions to the development of the steam engine, significantly improving its efficiency and transforming it into a practical and widely-used power source. However, it's important to note that the development of the steam engine involved the work of many inventors and engineers over time. Both Thomas Newcomen and Denis Papin also made significant contributions to the evolution of the steam engine. Newcomen developed an early atmospheric steam engine, while Papin invented the steam digester, which laid the groundwork for future steam engine designs.",
+              "prompt": {
+                "meta": {},
+                "user": "Who made crucial contributions to the development of the steam engine? A) James Watt B) Thomas Newcomen C) Denis Papin.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:22:09.643706",
+              "duration": 4.378081,
+              "cost": 0.003192
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) James Watt - While Thomas Newcomen and Denis Papin made early contributions to the development of the steam engine, James Watt is credited with making crucial improvements that significantly increased its efficiency and practicality. His innovations, such as the separate condenser and the centrifugal governor, were game-changers in the history of steam power.",
+              "prompt": {
+                "meta": {},
+                "user": "Who made crucial contributions to the development of the steam engine? A) James Watt B) Thomas Newcomen C) Denis Papin.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:22:11.272255",
+              "duration": 1.61034,
+              "cost": 0.00019063
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "Who is recognized for having invented the stethoscope? A) René Laennec B) Hippocrate C) Antonie van Leeuwenhoek D) Edward Jenner"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A)",
+              "prompt": {
+                "meta": {},
+                "user": "Who is recognized for having invented the stethoscope? A) René Laennec B) Hippocrate C) Antonie van Leeuwenhoek D) Edward Jenner.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:22:15.687319",
+              "duration": 4.3961,
+              "cost": 0.00204
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A)",
+              "prompt": {
+                "meta": {},
+                "user": "Who is recognized for having invented the stethoscope? A) René Laennec B) Hippocrate C) Antonie van Leeuwenhoek D) Edward Jenner.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:22:18.447901",
+              "duration": 2.725059,
+              "cost": 0.000035
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A",
+              "prompt": {
+                "meta": {},
+                "user": "Who is recognized for having invented the stethoscope? A) René Laennec B) Hippocrate C) Antonie van Leeuwenhoek D) Edward Jenner.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:22:22.323765",
+              "duration": 3.834362,
+              "cost": 0.00001225
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " A",
+              "prompt": {
+                "meta": {},
+                "user": "Who is recognized for having invented the stethoscope? A) René Laennec B) Hippocrate C) Antonie van Leeuwenhoek D) Edward Jenner.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:22:24.034235",
+              "duration": 1.690316,
+              "cost": 0.000496
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) René Laennec",
+              "prompt": {
+                "meta": {},
+                "user": "Who is recognized for having invented the stethoscope? A) René Laennec B) Hippocrate C) Antonie van Leeuwenhoek D) Edward Jenner.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:22:26.042632",
+              "duration": 1.9782,
+              "cost": 0.000688
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) René Laennec is recognized for having invented the stethoscope.",
+              "prompt": {
+                "meta": {},
+                "user": "Who is recognized for having invented the stethoscope? A) René Laennec B) Hippocrate C) Antonie van Leeuwenhoek D) Edward Jenner.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:22:26.994246",
+              "duration": 0.951614,
+              "cost": 0.00008166
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "Which scientist is credited with the invention of photography? A) Nicéphore Niépce B) Louis Daguerre C) William Henry Fox Talbot"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Nicéphore Niépce",
+              "prompt": {
+                "meta": {},
+                "user": "Which scientist is credited with the invention of photography? A) Nicéphore Niépce B) Louis Daguerre C) William Henry Fox Talbot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:22:31.289580",
+              "duration": 4.279362,
+              "cost": 0.0024000000000000002
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Nicéphore Niépce",
+              "prompt": {
+                "meta": {},
+                "user": "Which scientist is credited with the invention of photography? A) Nicéphore Niépce B) Louis Daguerre C) William Henry Fox Talbot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:22:35.242331",
+              "duration": 3.931654,
+              "cost": 0.000044999999999999996
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A",
+              "prompt": {
+                "meta": {},
+                "user": "Which scientist is credited with the invention of photography? A) Nicéphore Niépce B) Louis Daguerre C) William Henry Fox Talbot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:22:38.388908",
+              "duration": 3.137308,
+              "cost": 0.000012
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " A",
+              "prompt": {
+                "meta": {},
+                "user": "Which scientist is credited with the invention of photography? A) Nicéphore Niépce B) Louis Daguerre C) William Henry Fox Talbot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:22:41.414342",
+              "duration": 3.001721,
+              "cost": 0.00046399999999999995
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Nicéphore Niépce",
+              "prompt": {
+                "meta": {},
+                "user": "Which scientist is credited with the invention of photography? A) Nicéphore Niépce B) Louis Daguerre C) William Henry Fox Talbot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:22:42.319296",
+              "duration": 0.895941,
+              "cost": 0.000688
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "Nicéphore Niépce is credited with the invention of photography. He created the first known photograph, which he called \"heliograph,\" in 1826 or 1827. However, it was Louis Daguerre who later refined the process and invented the daguerreotype, which gained widespread popularity. William Henry Fox Talbot independently developed a different photographic process around the same time, known as the calotype or Talbotype.",
+              "prompt": {
+                "meta": {},
+                "user": "Which scientist is credited with the invention of photography? A) Nicéphore Niépce B) Louis Daguerre C) William Henry Fox Talbot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:22:43.954116",
+              "duration": 1.619748,
+              "cost": 0.00023727
+            },
+            "meta": {},
+            "text": "N",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "Who is associated with the invention of the Champagne method for producing champagne? A) Dom Pérignon B) Louis Pasteur C) Veuve Clicquot D) John Pemberton"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Dom Pérignon",
+              "prompt": {
+                "meta": {},
+                "user": "Who is associated with the invention of the Champagne method for producing champagne? A) Dom Pérignon B) Louis Pasteur C) Veuve Clicquot D) John Pemberton.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:22:45.171821",
+              "duration": 1.2032469999999997,
+              "cost": 0.00231
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Dom Pérignon",
+              "prompt": {
+                "meta": {},
+                "user": "Who is associated with the invention of the Champagne method for producing champagne? A) Dom Pérignon B) Louis Pasteur C) Veuve Clicquot D) John Pemberton.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:22:46.347868",
+              "duration": 1.160425,
+              "cost": 0.0000415
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A",
+              "prompt": {
+                "meta": {},
+                "user": "Who is associated with the invention of the Champagne method for producing champagne? A) Dom Pérignon B) Louis Pasteur C) Veuve Clicquot D) John Pemberton.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:22:50.017569",
+              "duration": 3.649561,
+              "cost": 0.00001325
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " A",
+              "prompt": {
+                "meta": {},
+                "user": "Who is associated with the invention of the Champagne method for producing champagne? A) Dom Pérignon B) Louis Pasteur C) Veuve Clicquot D) John Pemberton.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:22:51.446087",
+              "duration": 1.399398,
+              "cost": 0.000504
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Dom Pérignon",
+              "prompt": {
+                "meta": {},
+                "user": "Who is associated with the invention of the Champagne method for producing champagne? A) Dom Pérignon B) Louis Pasteur C) Veuve Clicquot D) John Pemberton.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:22:52.268572",
+              "duration": 0.806874,
+              "cost": 0.000712
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "The invention of the Champagne method, also known as the méthode traditionnelle, is commonly and mistakenly attributed to Dom Pérignon. However, it was actually developed by several monks and winemakers over centuries, and Dom Pérignon played a role in improving the quality of champagne but did not invent the method. Therefore, none of the options is entirely correct. However, if I must choose the one that is the most associated with the development of champagne, I would select A) Dom Pérignon, even though it's not entirely accurate.",
+              "prompt": {
+                "meta": {},
+                "user": "Who is associated with the invention of the Champagne method for producing champagne? A) Dom Pérignon B) Louis Pasteur C) Veuve Clicquot D) John Pemberton.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:22:54.205793",
+              "duration": 1.917146,
+              "cost": 0.00029049
+            },
+            "meta": {},
+            "text": "T",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "The discovery of infinitesimal calculus is attributed to: A) Isaac Newton B) Gottfried Wilhelm Leibniz C) Albert Einstein"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Isaac Newton",
+              "prompt": {
+                "meta": {},
+                "user": "The discovery of infinitesimal calculus is attributed to: A) Isaac Newton B) Gottfried Wilhelm Leibniz C) Albert Einstein.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:22:56.896565",
+              "duration": 2.675102,
+              "cost": 0.00186
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B) Gottfried Wilhelm Leibniz",
+              "prompt": {
+                "meta": {},
+                "user": "The discovery of infinitesimal calculus is attributed to: A) Isaac Newton B) Gottfried Wilhelm Leibniz C) Albert Einstein.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:23:02.622140",
+              "duration": 5.710006999999999,
+              "cost": 0.000040499999999999995
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B",
+              "prompt": {
+                "meta": {},
+                "user": "The discovery of infinitesimal calculus is attributed to: A) Isaac Newton B) Gottfried Wilhelm Leibniz C) Albert Einstein.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:23:06.191854",
+              "duration": 3.545483,
+              "cost": 0.00001025
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " B",
+              "prompt": {
+                "meta": {},
+                "user": "The discovery of infinitesimal calculus is attributed to: A) Isaac Newton B) Gottfried Wilhelm Leibniz C) Albert Einstein.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:23:07.902823",
+              "duration": 1.702877,
+              "cost": 0.000416
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Isaac Newton and B) Gottfried Wilhelm Leibniz are both credited with the discovery of infinitesimal calculus. However, they worked independently of each other.",
+              "prompt": {
+                "meta": {},
+                "user": "The discovery of infinitesimal calculus is attributed to: A) Isaac Newton B) Gottfried Wilhelm Leibniz C) Albert Einstein.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:23:09.889276",
+              "duration": 1.963844,
+              "cost": 0.001352
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "The discovery of infinitesimal calculus is attributed to both Isaac Newton and Gottfried Wilhelm Leibniz, independently of each other around the same time in the late 17th century. Therefore, the correct answer is both A) Isaac Newton and B) Gottfried Wilhelm Leibniz. However, since I can only provide one answer, I will go with A) Isaac Newton, who first developed the methods of calculus in the context of his work on physics and mathematics.",
+              "prompt": {
+                "meta": {},
+                "user": "The discovery of infinitesimal calculus is attributed to: A) Isaac Newton B) Gottfried Wilhelm Leibniz C) Albert Einstein.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:23:11.955007",
+              "duration": 2.0496329999999996,
+              "cost": 0.00024054000000000002
+            },
+            "meta": {},
+            "text": "T",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "Who is considered one of the pioneers of radio? A) Nikola Tesla B) Guglielmo Marconi C) Édouard Branly"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B) Guglielmo Marconi",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered one of the pioneers of radio? A) Nikola Tesla B) Guglielmo Marconi C) Édouard Branly.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:23:17.128425",
+              "duration": 5.151722,
+              "cost": 0.00228
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered one of the pioneers of radio? A) Nikola Tesla B) Guglielmo Marconi C) Édouard Branly.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:23:22.545271",
+              "duration": 5.401715,
+              "cost": 0.0000305
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered one of the pioneers of radio? A) Nikola Tesla B) Guglielmo Marconi C) Édouard Branly.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:23:26.524622",
+              "duration": 3.973192,
+              "cost": 0.000011
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " B",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered one of the pioneers of radio? A) Nikola Tesla B) Guglielmo Marconi C) Édouard Branly.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:23:27.889412",
+              "duration": 1.357972,
+              "cost": 0.000448
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B) Guglielmo Marconi",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered one of the pioneers of radio? A) Nikola Tesla B) Guglielmo Marconi C) Édouard Branly.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:23:29.097669",
+              "duration": 1.1947440000000003,
+              "cost": 0.000728
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "B) Guglielmo Marconi\n\nMarconi is considered one of the pioneers of radio due to his development of wireless telegraphy and contribution to the establishment of a global communication system. While Tesla and Branly made significant contributions to the field of radio technology, Marconi is often recognized as the \"father of radio\" for his practical applications and commercialization of the technology.",
+              "prompt": {
+                "meta": {},
+                "user": "Who is considered one of the pioneers of radio? A) Nikola Tesla B) Guglielmo Marconi C) Édouard Branly.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:23:30.510859",
+              "duration": 1.405688,
+              "cost": 0.00021101
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "Who achieved the first controlled flight of an airplane? A) Les frères Wright B) Clément Ader C) Alberto Santos-Dumont D) Louis Blériot"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Les frères Wright",
+              "prompt": {
+                "meta": {},
+                "user": "Who achieved the first controlled flight of an airplane? A) Les frères Wright B) Clément Ader C) Alberto Santos-Dumont D) Louis Blériot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:23:34.664619",
+              "duration": 4.142373,
+              "cost": 0.00219
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Les frères Wright",
+              "prompt": {
+                "meta": {},
+                "user": "Who achieved the first controlled flight of an airplane? A) Les frères Wright B) Clément Ader C) Alberto Santos-Dumont D) Louis Blériot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:23:37.502568",
+              "duration": 2.823395,
+              "cost": 0.0000395
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A",
+              "prompt": {
+                "meta": {},
+                "user": "Who achieved the first controlled flight of an airplane? A) Les frères Wright B) Clément Ader C) Alberto Santos-Dumont D) Louis Blériot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:23:43.201430",
+              "duration": 5.684846,
+              "cost": 0.00001275
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " A",
+              "prompt": {
+                "meta": {},
+                "user": "Who achieved the first controlled flight of an airplane? A) Les frères Wright B) Clément Ader C) Alberto Santos-Dumont D) Louis Blériot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:23:44.555066",
+              "duration": 1.347603,
+              "cost": 0.000472
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Les frères Wright",
+              "prompt": {
+                "meta": {},
+                "user": "Who achieved the first controlled flight of an airplane? A) Les frères Wright B) Clément Ader C) Alberto Santos-Dumont D) Louis Blériot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:23:45.634414",
+              "duration": 1.057954,
+              "cost": 0.000648
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Les frères Wright\n\nThe Wright brothers, Orville and Wilbur, are credited with achieving the first controlled, sustained flight of a powered, heavier-than-air aircraft on December 17, 1903. The flight took place near Kitty Hawk, North Carolina, in the United States.",
+              "prompt": {
+                "meta": {},
+                "user": "Who achieved the first controlled flight of an airplane? A) Les frères Wright B) Clément Ader C) Alberto Santos-Dumont D) Louis Blériot.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:23:47.132268",
+              "duration": 1.486379,
+              "cost": 0.00018278
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "meta": {},
+      "question": {
+        "meta": {},
+        "text": "The invention of the incandescent lamp is often attributed to: A) Thomas Edison B) Joseph Swan C) Humphry Davy"
+      },
+      "facts": {
+        "llm_answer": null,
+        "meta": {},
+        "items": []
+      },
+      "chunks": {
+        "meta": {},
+        "items": []
+      },
+      "answers": {
+        "meta": {},
+        "items": [
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A)",
+              "prompt": {
+                "meta": {},
+                "user": "The invention of the incandescent lamp is often attributed to: A) Thomas Edison B) Joseph Swan C) Humphry Davy.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-4",
+              "full_name": "gpt-4-0613",
+              "timestamp": "2024-03-03T19:23:50.354690",
+              "duration": 3.203299,
+              "cost": 0.0017400000000000002
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Thomas Edison",
+              "prompt": {
+                "meta": {},
+                "user": "The invention of the incandescent lamp is often attributed to: A) Thomas Edison B) Joseph Swan C) Humphry Davy.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gpt-3.5-turbo",
+              "full_name": "gpt-3.5-turbo-0125",
+              "timestamp": "2024-03-03T19:23:54.771218",
+              "duration": 4.408513,
+              "cost": 0.000033
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A",
+              "prompt": {
+                "meta": {},
+                "user": "The invention of the incandescent lamp is often attributed to: A) Thomas Edison B) Joseph Swan C) Humphry Davy.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "gemini-pro",
+              "full_name": "gemini-pro",
+              "timestamp": "2024-03-03T19:24:00.245773",
+              "duration": 5.454593,
+              "cost": 0.00001075
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": " B",
+              "prompt": {
+                "meta": {},
+                "user": "The invention of the incandescent lamp is often attributed to: A) Thomas Edison B) Joseph Swan C) Humphry Davy.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "claude-2.1",
+              "full_name": "claude-2.1",
+              "timestamp": "2024-03-03T19:24:01.485098",
+              "duration": 1.225432,
+              "cost": 0.000416
+            },
+            "meta": {},
+            "text": "B",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "A) Thomas Edison",
+              "prompt": {
+                "meta": {},
+                "user": "The invention of the incandescent lamp is often attributed to: A) Thomas Edison B) Joseph Swan C) Humphry Davy.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-large-latest",
+              "full_name": "mistral-large-latest",
+              "timestamp": "2024-03-03T19:24:02.615489",
+              "duration": 1.113916,
+              "cost": 0.0006
+            },
+            "meta": {},
+            "text": "A",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          },
+          {
+            "llm_answer": {
+              "meta": {},
+              "text": "The invention of the practical incandescent light bulb is often attributed to Thomas Edison (option A) because of his successful development and commercialization of a practical electric lighting system, which included not only the light bulb itself but also a system for generating and distributing electricity. However, it's worth noting that Sir Joseph Swan (option B) independently developed a working light bulb around the same time as Edison, and the two men later reached an agreement to share patents. Humphry Davy (option C) is known for his early work on electrical lighting, but his experiments with arc lamps did not lead to the development of a practical incandescent lamp.",
+              "prompt": {
+                "meta": {},
+                "user": "The invention of the incandescent lamp is often attributed to: A) Thomas Edison B) Joseph Swan C) Humphry Davy.\nRépond uniquement avec la lettre. Ne donne qu'une seule réponse.",
+                "system": ""
+              },
+              "name": "mistral/mistral-small",
+              "full_name": "mistral-small",
+              "timestamp": "2024-03-03T19:24:05.021318",
+              "duration": 2.379778,
+              "cost": 0.00032657000000000004
+            },
+            "meta": {},
+            "text": "T",
+            "eval": {
+              "llm_answer": null,
+              "meta": {},
+              "text": "",
+              "human": null,
+              "auto": null
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
